@@ -1,6 +1,6 @@
 # laravel-react-setup
 After cloning this repository, copy its content to the root directory on your server.
-If you work on xampp, then the htdocs directory will look like that:
+If you work on xampp, then the htdocs directory will look like the following:
 - frontend
 - frontend_source
 - backend
